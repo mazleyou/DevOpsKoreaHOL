@@ -6,22 +6,22 @@
 		<changefreq>daily</changefreq>
 	</url>
 	<url>
-		<loc>http://mazleyou.github.io/hskim_works/credit.html</loc>
-		<lastmod>2019-10-10</lastmod>
-		<changefreq>daily</changefreq>
-	</url>
-	<url>
 		<loc>http://mazleyou.github.io/hskim_works/test.html</loc>
 		<lastmod>2019-10-10</lastmod>
 		<changefreq>daily</changefreq>
 	</url>
 	<url>
-		<loc>http://mazleyou.github.io/hskim_works/index.html</loc>
+		<loc>http://mazleyou.github.io/hskim_works/hol\hol.html</loc>
 		<lastmod>2019-10-10</lastmod>
 		<changefreq>daily</changefreq>
 	</url>
 	<url>
-		<loc>http://mazleyou.github.io/hskim_works/hol\hol.html</loc>
+		<loc>http://mazleyou.github.io/hskim_works/credit.html</loc>
+		<lastmod>2019-10-10</lastmod>
+		<changefreq>daily</changefreq>
+	</url>
+	<url>
+		<loc>http://mazleyou.github.io/hskim_works/index.html</loc>
 		<lastmod>2019-10-10</lastmod>
 		<changefreq>daily</changefreq>
 	</url>
