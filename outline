@@ -2,9 +2,11 @@
 // be here right now for technical reasons
 
 Index : articles/index.md
-
-	20191010-AZ-Devops and Github.io : articles/hol/hol.md
-
+    
+    AZ-Devops & Python App : articles/devops_python.md
+    Github collection : articles/githubcollection.md
+	AZ-Devops & Github.io : articles/hol/hol.md
+    
 //	Alive UX Kit : articles/alive/alive.md
 //		Components : api-docs/api/alive.json
 //		Themes : articles/alive/themes.md
